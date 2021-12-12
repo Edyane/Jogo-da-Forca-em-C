@@ -1,2 +1,2 @@
-# Jogo-da-Forca-em-C-
+# Jogo-da-Forca-em-C
 Joga da Forca (Linguagem C)
